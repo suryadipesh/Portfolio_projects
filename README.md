@@ -29,24 +29,6 @@ You can view each project directly in your browser:
 - Git & GitHub
 - GitHub Pages
 
-## 📂 Repository Structure
-
-```text
-Portfolio_projects/
-│
-├── Ques3.html
-├── Ques5.html
-├── Ques6.html
-├── Ques7.html
-├── Ques8.html
-├── Ques9.html
-├── Ques10.html
-├── Ques11.html
-├── Ques12.html
-├── Ques13.html
-│
-└── README.md
-```
 
 ## 🚀 About This Repository
 
